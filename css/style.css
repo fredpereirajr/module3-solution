@@ -1,15 +1,20 @@
 .navbar {
-    background-color: rgba(92, 8, 8, 0.329) !important;
     padding-bottom: 0;
     padding-top: 0; 
 }
 
 .header {
     height: 60px;
+    box-shadow: 1px 1px 5px black;
+    background-color: rgba(255, 255, 255, 0);
 }
 
 .navbar-collapse {
-    background-color: rgba(83, 60, 60, 0.438);
+    background-color: rgb(150, 116, 194);
+}
+
+.collapse {
+    position: static;
 }
 
 .d-flex{
@@ -17,7 +22,7 @@
 }
 
 h1 {
-    margin-top: 50px;
+    margin-top: 100px;
 }
 
 h2 {
